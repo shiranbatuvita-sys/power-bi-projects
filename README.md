@@ -1,6 +1,7 @@
 # Power BI Projects | Building a Job-Ready Power BI Portfolio
 
-## Hi there, I'm Shiran 👋
+## Hi there 👋
+I'm Shiran, a Commercial Ops Leader sharpening skills in Data Engineering and BI.
 Through this portfolio, I demonstrate my analytics expertise by turning raw data into visual Power BI dashboards that help business leaders make informed decisions. 
 I keep this repository lean by hosting just five active projects and frequently updating them with new, impactful work. 
 

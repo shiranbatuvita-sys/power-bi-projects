@@ -47,7 +47,7 @@ A minimalist mobile-friendly scorecard showing tracking sales variance against b
 
 <img width="494" height="549" alt="variance_kpi_card" src="https://github.com/user-attachments/assets/84634eba-8638-43aa-a78a-446002c294ad" />
 
-## Project 05: ⛈️ Real-time Weather Dashboard  
+## Project 05: ⛈️ Australian Weather Dashboard (Real-time Forecast) 
 A modern, real-time weather dashboard tracking current meteorological data across six major Australian cities. Selecting a city from the slicer will pull data in real time. 
 
 <img width="438" height="709" alt="weather_dashboard" src="https://github.com/user-attachments/assets/3f1b971c-7751-4dc5-8681-88aeacfe7a34" />
